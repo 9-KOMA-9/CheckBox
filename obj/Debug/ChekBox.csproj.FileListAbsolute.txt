@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\ChekBox\ChekBox\bin\Debug\ChekBox.exe.config
+C:\Users\PC\source\repos\ChekBox\ChekBox\bin\Debug\ChekBox.exe
+C:\Users\PC\source\repos\ChekBox\ChekBox\bin\Debug\ChekBox.pdb
+C:\Users\PC\source\repos\ChekBox\ChekBox\obj\Debug\ChekBox.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ChekBox\ChekBox\obj\Debug\ChekBox.Form1.resources
+C:\Users\PC\source\repos\ChekBox\ChekBox\obj\Debug\ChekBox.Properties.Resources.resources
+C:\Users\PC\source\repos\ChekBox\ChekBox\obj\Debug\ChekBox.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ChekBox\ChekBox\obj\Debug\ChekBox.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ChekBox\ChekBox\obj\Debug\ChekBox.exe
+C:\Users\PC\source\repos\ChekBox\ChekBox\obj\Debug\ChekBox.pdb
